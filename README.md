@@ -1,6 +1,14 @@
 # ada_suzano-power-bi-migracao_canada
 Projeto de PowerBI realizado para o programa Diversidade Tech da Ada/Suzano
 
+Participantes:
+- Antonio Leandro
+- Dário Rodrigues
+- Jessivan Bezerra
+- Lucas Jurani
+
+
+
 O objetivo do trabalho é produzir um dashboard no PowerBI utilizando os dados de dois dataset:
 - Immigration to Canada (https://www.kaggle.com/datasets/ammaraahmad/immigration-to-canada)
 - Population by Country - 2020 (https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020)
