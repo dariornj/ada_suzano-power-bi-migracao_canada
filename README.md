@@ -5,7 +5,7 @@ O objetivo do trabalho é produzir um dashboard no PowerBI utilizando os dados d
 - Immigration to Canada (https://www.kaggle.com/datasets/ammaraahmad/immigration-to-canada)
 - Population by Country - 2020 (https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020)
 
-O primeiro dataset traz o número de imigrações feitas para o Canadá de 1980 a 2013, enquanto o segundo traz dados de população, área e migração dos países.
+O primeiro dataset traz o número de imigrações feitas para o Canadá de 1980 a 2013, enquanto o segundo traz, dentre outros, dados de população, área e migração dos países.
 
 Neste projeto, busca-se responder as seguintes perguntas:
 - Quais os países que mais migraram para o canadá ao longo do tempo?
