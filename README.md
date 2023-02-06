@@ -12,3 +12,5 @@ Neste projeto, busca-se responder as seguintes perguntas:
 - Existe alguma tendência observada de acordo com o continente de origem?
 - Quando ponderado pela população, há alguma mudança no ranking de continentes que mais migram?
 - Regiões menos desenvolvidas migram mais?
+
+Os dados foram pré-tratados no python, já que não estavam em formatos tidy.
